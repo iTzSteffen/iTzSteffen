@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Steffen
 - 👀 I’m interested in Web Programming
-- 🌱 I’m currently learning VueJs
+- 🌱 I’m currently working with Angular
 
 <!---
 iTzSteffen/iTzSteffen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
